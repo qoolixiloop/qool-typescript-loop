@@ -1,0 +1,1 @@
+# qool-typescript-loop
